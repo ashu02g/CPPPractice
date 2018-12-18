@@ -1,1 +1,1 @@
-# CPPPractice
+# CppPractice
